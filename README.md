@@ -1,9 +1,9 @@
 # kdtree-weather
 
-Simple aplicación de la estructura Kdtree en el cual usamos datos del clima de una ciudad para predecir el clima en una una fecha x dandole ciertos parametros.
+Simple aplicación de la estructura Kdtree en el cual usamos datos del clima de una ciudad para predecir el clima en una fecha X dandole ciertos parametros.
 
 ## Compilar
-Para compilar se hace uso de CMake.
+Para compilar se hace uso de `CMake`.
 ### EN LINUX
 Primero creamos la carpeta buil, una vez dentro ejecutamos lo siguiente:
 ```bash
