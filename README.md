@@ -4,7 +4,7 @@ Simple aplicación de la estructura Kdtree en el cual usamos datos del clima de 
 
 ## Compilar
 Para compilar se hace uso de CMake.
-## EN LINUX
+### EN LINUX
 Primero creamos la carpeta buil, una vez dentro ejecutamos lo siguiente:
 ```bash
 cmake ..
